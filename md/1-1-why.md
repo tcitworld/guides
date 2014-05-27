@@ -23,6 +23,7 @@ Maintenant vous vous dites peut-être : « Linux est peut-être super, mais ce n
 
 ![][1]
 
+Versus Mac OS X:
 Par rapport à Mac OS X :
 ![][2]
 
